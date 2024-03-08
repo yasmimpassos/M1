@@ -1,0 +1,5 @@
+[latex] lim_{x{\rightarrow}3}(x^2-3) [/latex]
+[latex] lim_{x{\rightarrow}2}\left(\frac{x^2-4x+4}{x-2}\right)[/latex]
+[latex] lim_{x{\rightarrow}4}\left(\frac{1}{(x-4)^2}\right) [/latex]
+[latex] lim_{x{\rightarrow}\infty}\left(\frac{1}{x}\right) [/latex]
+[latex] \frac{df}{dx}(x) = lim_{h{\rightarrow}0}\left(\frac{f(x+h)-f(x)}{h} \right)[/latex]
